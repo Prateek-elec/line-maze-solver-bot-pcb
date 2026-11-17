@@ -1,6 +1,6 @@
 <div align="center">
 
-# Line-Follower & Maze-Solver Robot PCB
+<img src="docs/banner.png" alt="Line & Maze Solver PCB" width="100%"/>
 
 **A plug-in carrier board for competition line-follower and maze-solving robots: Arduino Nano, TB6612FNG dual motor driver, IR sensor array input and start / calibrate buttons on one clean PCB.**
 
@@ -9,13 +9,18 @@
 ![Robotics](https://img.shields.io/badge/robotics-competition-8b5cf6?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge)
 
-<img src="docs/images/3d-render.png" width="70%" alt="3D render with Arduino Nano and TB6612FNG module"/>
-
 </div>
 
 ---
 
-## Why
+## 🔥 Why it hits different
+
+- 🏁 **Competition-ready:** built for line-follower and maze-solving events.
+- 🔌 **Plug and race:** drop in an Arduino Nano and a TB6612FNG, plug in sensors and motors.
+- 🧹 **No jumper-wire nest:** one PCB instead of a breadboard that falls apart mid-run.
+- 📘 **Wiring guide included:** battery advice, checklist and common fixes.
+
+## The problem it solves
 
 Breadboard robots fall apart on the track. This board replaces the jumper-wire nest with a single PCB: drop in an Arduino Nano and a TB6612FNG module, plug in the IR array and motors, and you're racing.
 
@@ -53,8 +58,16 @@ Full connection guide, battery recommendations, a pre-power checklist and common
 
 [MIT](LICENSE) © Prateek Sarkar
 
+---
+
 <div align="center">
 
-**Building a bot for a robotics competition? Star ⭐ the repo and share your build.**
+### If this made you go *"wait, that's sick"* 👀
+
+**Drop a ⭐ so more builders find it, and share it with someone who'd build one.**
+
+[![Share on X](https://img.shields.io/badge/share%20on-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=No%20more%20jumper-wire%20nests%3A%20a%20clean%20PCB%20for%20maze-solving%20robots%20%F0%9F%A4%96&url=https%3A%2F%2Fgithub.com%2FPrateek-elec%2Fline-maze-solver-bot-pcb)
+[![Share on LinkedIn](https://img.shields.io/badge/share%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FPrateek-elec%2Fline-maze-solver-bot-pcb)
+[![Follow](https://img.shields.io/badge/follow-@Prateek--elec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prateek-elec)
 
 </div>

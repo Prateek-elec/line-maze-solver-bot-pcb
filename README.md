@@ -13,7 +13,7 @@
 
 ---
 
-## 🔥 Why it hits different
+## Highlights
 
 - 🏁 **Competition-ready:** built for line-follower and maze-solving events.
 - 🔌 **Plug and race:** drop in an Arduino Nano and a TB6612FNG, plug in sensors and motors.
@@ -62,7 +62,7 @@ Full connection guide, battery recommendations, a pre-power checklist and common
 
 <div align="center">
 
-### If this made you go *"wait, that's sick"* 👀
+### Found this useful?
 
 **Drop a ⭐ so more builders find it, and share it with someone who'd build one.**
 
